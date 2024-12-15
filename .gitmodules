@@ -5,3 +5,4 @@
 [submodule "bridgr"]
 	path = bridgr
 	url = https://github.com/marcburri/bridgr
+	branch = *release
