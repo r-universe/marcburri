@@ -9,4 +9,4 @@
 [submodule "reviser"]
 	path = reviser
 	url = https://github.com/ropensci/reviser
-	branch = main
+	branch = v0.1.0
