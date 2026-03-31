@@ -8,5 +8,5 @@
 	branch = v0.1.2
 [submodule "reviser"]
 	path = reviser
-	url = https://github.com/p-wegmueller/reviser
+	url = https://github.com/ropensci/reviser
 	branch = main

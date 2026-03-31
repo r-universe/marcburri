@@ -2,5 +2,9 @@
   {
     "package": "bridgr",
     "releasetag": true
+  },
+  {
+    "package": "reviser",
+    "releasetag": true
   }
 ]
