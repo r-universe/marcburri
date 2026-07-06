@@ -9,7 +9,7 @@
 [submodule "hetiv"]
 	path = hetiv
 	url = https://github.com/dankaufmann/hetiv
-	branch = *release
+	branch = main
 [submodule "reviser"]
 	path = reviser
 	url = https://github.com/ropensci/reviser

@@ -1,14 +1,28 @@
 [
   {
     "package": "bridgr",
+    "metadata": {
+      "review": {
+        "id": 767,
+        "status": "pre-submission",
+        "version": "0.1.2",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/767"
+      }
+    },
     "releasetag": true
   },
   {
     "package": "reviser",
-    "releasetag": true
-  },
-  {
-    "package": "hetiv",
+    "metadata": {
+      "review": {
+        "id": 709,
+        "status": "reviewed",
+        "version": "0.1.1",
+        "organization": "rOpenSci Software Review",
+        "url": "https://github.com/ropensci/software-review/issues/709"
+      }
+    },
     "releasetag": true
   }
 ]
