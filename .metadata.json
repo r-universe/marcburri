@@ -6,5 +6,9 @@
   {
     "package": "reviser",
     "releasetag": true
+  },
+  {
+    "package": "hetiv",
+    "releasetag": true
   }
 ]
