@@ -5,7 +5,7 @@
 [submodule "bridgr"]
 	path = bridgr
 	url = https://github.com/marcburri/bridgr
-	branch = v0.1.2
+	branch = v1.0.0
 [submodule "hetiv"]
 	path = hetiv
 	url = https://github.com/dankaufmann/hetiv
