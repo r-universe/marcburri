@@ -4,10 +4,10 @@
     "metadata": {
       "review": {
         "id": 767,
-        "status": "pre-submission",
-        "version": "0.1.2",
+        "status": "under-review",
+        "version": "1.0.0",
         "organization": "rOpenSci Software Review",
-        "url": "https://github.com/ropensci/software-review/issues/767"
+        "url": "https://github.com/ropensci/software-review/issues/791"
       }
     },
     "releasetag": true
